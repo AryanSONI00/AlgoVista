@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>AlgoVista | Dynamic Flow</title>
+		<link rel="stylesheet" href="styles.css" />
+		<link rel="icon" type="image/png" href="logo.png" />
+	</head>
+	<body>
+		<!-- Logo Section -->
+		<div id="logo-container">
+			<div class="spinner">
+				<span></span>
+				<span></span>
+				<span></span>
+				<span></span>
+				<span></span>
+				<span></span>
+				<span></span>
+				<span></span>
+			</div>
+			<h2 id="logo-text">ALGOVISTA</h2>
+		</div>
+
+		<!-- Main Landing Page -->
+		<div id="landing-page">
+			<h2 id="heading"><img src="logo.png" alt="AlgoVista Logo" id="icon-img" />AlgoVista: See the Flow</h2>
+
+			<!-- Cards -->
+			<div class="card-container">
+				<div class="card">
+					<video class="card-video" autoplay loop muted playsinline>
+						<source src="sortvideo.mp4" type="video/mp4" />
+						Sorting Video
+					</video>
+					<div class="card-content">
+						<h2 class="card-title">Sorting</h2>
+						<p class="card-text">Turn chaos into order</p>
+						<a href="Sorting-Visualizer\index.html" class="card-button">Visualize</a>
+					</div>
+				</div>
+
+				<div class="card">
+					<img src="path-2.gif" alt="Pathfinding GIF" class="card-gif" />
+					<div class="card-content">
+						<h2 class="card-title">Pathfinding</h2>
+						<p class="card-text">Turn confusion into direction</p>
+						<a href="Path-Finding-Visualizer\index.html" class="card-button">Visualize</a>
+					</div>
+				</div>
+			</div>
+
+			<!-- Theme Toggle Switch -->
+			<div class="themeToggleContainer">
+				<label for="themeToggle" class="themeToggle st-sunMoonThemeToggleBtn" type="checkbox">
+					<input type="checkbox" id="themeToggle" class="themeToggleInput" />
+					<svg width="18" height="18" viewBox="0 0 20 20" fill="currentColor" stroke="none">
+						<mask id="moon-mask">
+							<rect x="0" y="0" width="20" height="20" fill="white"></rect>
+							<circle cx="11" cy="3" r="8" fill="black"></circle>
+						</mask>
+						<circle class="sunMoon" cx="10" cy="10" r="8" mask="url(#moon-mask)"></circle>
+						<g>
+							<circle class="sunRay sunRay1" cx="18" cy="10" r="1.5"></circle>
+							<circle class="sunRay sunRay2" cx="14" cy="16.928" r="1.5"></circle>
+							<circle class="sunRay sunRay3" cx="6" cy="16.928" r="1.5"></circle>
+							<circle class="sunRay sunRay4" cx="2" cy="10" r="1.5"></circle>
+							<circle class="sunRay sunRay5" cx="6" cy="3.1718" r="1.5"></circle>
+							<circle class="sunRay sunRay6" cx="14" cy="3.1718" r="1.5"></circle>
+						</g>
+					</svg>
+				</label>
+			</div>
+		</div>
+
+		<!-- Footer -->
+		<footer>
+			<a href="/AlgoVista/about/index.html">About Us</a>
+			<a href="mailto:aryan000project@gmail.com">Email Us</a>
+		</footer>
+
+		<script src="script.js"></script>
+	</body>
+</html>
