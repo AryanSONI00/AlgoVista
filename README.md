@@ -5,15 +5,10 @@
 
 <!-- Badges -->
 <p align="center">
-  <a href="https://github.com/git-raghav/AlgoVista"><img src="https://img.shields.io/github/stars/git-raghav/AlgoVista?style=for-the-badge" alt="GitHub stars"></a>
+  <a href="https://github.com/AryanSONI00/AlgoVista.git"><img src="https://img.shields.io/github/stars/git-raghav/AlgoVista?style=for-the-badge" alt="GitHub stars"></a>
   <a href="https://github.com/git-raghav/AlgoVista/fork"><img src="https://img.shields.io/github/forks/git-raghav/AlgoVista?style=for-the-badge" alt="GitHub forks"></a>
   <a href="https://github.com/git-raghav/AlgoVista/issues"><img src="https://img.shields.io/github/issues/git-raghav/AlgoVista?style=for-the-badge" alt="GitHub issues"></a>
   <a href="LICENSE"><img src="https://img.shields.io/github/license/git-raghav/AlgoVista?style=for-the-badge" alt="License"></a>
-  <a href="#live-demo"><img src="https://img.shields.io/badge/Live%20Demo-Online-brightgreen?style=for-the-badge" alt="Live Demo"></a>
-</p>
-
-<!-- Live Demo -->
-<p align="center">
   <a href="https://github.com/AryanSONI00/AlgoVista.git"><img src="https://img.shields.io/badge/Live%20Demo-Online-brightgreen?style=for-the-badge" alt="Live Demo"></a>
 </p>
 
