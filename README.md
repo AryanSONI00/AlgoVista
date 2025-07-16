@@ -12,6 +12,11 @@
   <a href="#live-demo"><img src="https://img.shields.io/badge/Live%20Demo-Online-brightgreen?style=for-the-badge" alt="Live Demo"></a>
 </p>
 
+<!-- Live Demo -->
+<p align="center">
+  <a href="https://github.com/AryanSONI00/AlgoVista.git"><img src="https://img.shields.io/badge/Live%20Demo-Online-brightgreen?style=for-the-badge" alt="Live Demo"></a>
+</p>
+
 ---
 
 # 🚀 AlgoVista
@@ -19,7 +24,7 @@
 **Unveiling Sorting and Pathfinding through Visuals**
 
 <p align="center">
-  <a href="#live-demo"><img src="https://img.shields.io/badge/TRY%20IT%20NOW-Live%20Demo-orange?style=for-the-badge" alt="Live Demo"></a>
+  <a href="https://github.com/AryanSONI00/AlgoVista.git"><img src="https://img.shields.io/badge/TRY%20IT%20NOW-Live%20Demo-orange?style=for-the-badge" alt="Live Demo"></a>
 </p>
 
 <p align="center">
